@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 13FD02B6
 /// @DnDArgument : "expr" "3"
-/// @DnDArgument : "var" "direction"
-direction = 3;
+/// @DnDArgument : "var" "temp1"
+temp1 = 3;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1

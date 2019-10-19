@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 34E0BAB4
-/// @DnDArgument : "var" "direction"
-direction = 0;
+/// @DnDArgument : "var" "temp1"
+temp1 = 0;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
