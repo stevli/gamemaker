@@ -1,15 +1,15 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 34E0BAB4
+/// @DnDHash : 7EF2C51A
 /// @DnDArgument : "var" "temp1"
 temp1 = 0;
 
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 012A6486
-/// @DnDArgument : "speed" "-5"
-/// @DnDArgument : "type" "2"
-vspeed = -5;
+/// @DnDHash : 34E0BAB4
+/// @DnDArgument : "expr" "y-5"
+/// @DnDArgument : "var" "y"
+y = y-5;
 
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
