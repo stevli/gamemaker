@@ -578,7 +578,7 @@
             "Key": "9dbd355b-6fdf-4bf8-ab4f-a72ad3282061",
             "Value": {
                 "id": "0541b9cf-dd72-4b1b-9146-ce7a82dd96d3",
-                "resourcePath": "rooms\\rm_puzzle23\\rm_puzzle23.yy",
+                "resourcePath": "rooms\\rm_puzzle2\\rm_puzzle2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -652,6 +652,14 @@
                 "id": "99e10422-1cb0-4ff8-b50f-1420d9bec8a0",
                 "resourcePath": "sprites\\sp_p3o3\\sp_p3o3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b14136ce-0ac3-4ef4-a47e-4f63736146e1",
+            "Value": {
+                "id": "dbaa0f8d-801f-4b74-915f-d96025fca77a",
+                "resourcePath": "rooms\\rm_puzzle3\\rm_puzzle3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
