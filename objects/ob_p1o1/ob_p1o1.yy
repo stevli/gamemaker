@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "ob_p1o1",
     "eventList": [
-        
+        {
+            "id": "ccd4bd02-b089-4023-bd8c-b796953e8b22",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "6a8228c9-88c3-44c6-868b-437a794a6afc",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "e10fcec1-cda3-43f1-baa1-faf45a69206f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -23,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
+    "solid": false,
     "spriteId": "727163f0-ebc0-444c-97b3-6804e108eb7b",
     "visible": true
 }
