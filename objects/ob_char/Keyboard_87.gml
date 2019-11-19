@@ -14,7 +14,12 @@ y = y-5;
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 087F03DA
+/// @DnDArgument : "imageind" ""
 /// @DnDArgument : "spriteind" "sp_char_w_ph"
 /// @DnDSaveInfo : "spriteind" "b39091fc-42ce-4bdb-a16c-cfa53142a8b6"
 sprite_index = sp_char_w_ph;
-image_index = 0;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 45AE565B
+image_speed = 1;
