@@ -1,8 +1,8 @@
 {
-    "id": "ffa13085-6933-4230-9b0a-0e35bbbe7b6e",
+    "id": "457fd0c8-dbd0-4c29-96f8-fa8a6bfd66a9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ob_p1o5",
+    "name": "ob_door_side",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "90ff113c-e295-43c6-86e1-4f119a5085e5",
+    "spriteId": "0c09d816-e328-42eb-82ad-3b37531cebe9",
     "visible": true
 }
