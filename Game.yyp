@@ -447,6 +447,22 @@
             }
         },
         {
+            "Key": "244898c4-9d72-45f0-96ad-2d14c8b6f38c",
+            "Value": {
+                "id": "9ffbe34a-4065-4b5a-ba19-163deeb3d994",
+                "resourcePath": "sounds\\sound_moving\\sound_moving.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "24632ce2-d9a3-47d4-9563-90f5c6e43d4f",
+            "Value": {
+                "id": "6451a576-c0e0-4334-8831-1663dd9c013f",
+                "resourcePath": "sounds\\sound_button\\sound_button.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2475a0c5-0b31-407f-9d11-e5c344f78c08",
             "Value": {
                 "id": "0abb6522-ec63-4de8-845c-a7f4b0290eb1",
@@ -1716,6 +1732,14 @@
                 "id": "33b42557-bd96-40c7-888c-a88174850518",
                 "resourcePath": "views\\8b0564f3-eefc-46e8-b729-7381e702b121.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c9ed2e2-9dc6-409f-a629-64e969331635",
+            "Value": {
+                "id": "82dae6da-658e-4edf-87f1-80ef41139412",
+                "resourcePath": "sounds\\sound_door_open\\sound_door_open.yy",
+                "resourceType": "GMSound"
             }
         },
         {
