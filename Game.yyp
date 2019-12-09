@@ -487,14 +487,6 @@
             }
         },
         {
-            "Key": "2475a0c5-0b31-407f-9d11-e5c344f78c08",
-            "Value": {
-                "id": "0abb6522-ec63-4de8-845c-a7f4b0290eb1",
-                "resourcePath": "rooms\\rm_srtmenu11\\rm_srtmenu11.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "2565e411-001e-4bba-b304-ffeed755c796",
             "Value": {
                 "id": "746fc5a6-017d-43a0-88e9-c084342f7dd8",
@@ -1132,14 +1124,6 @@
                 "id": "cf87727f-9e2f-40d1-a01c-6a52fc2cddba",
                 "resourcePath": "sprites\\sp_3\\sp_3.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "58c25b2c-4bb5-41fb-a023-2ac0438af128",
-            "Value": {
-                "id": "0beafb07-37e5-45d6-b232-aaf238b127a3",
-                "resourcePath": "rooms\\rm_srtmenu1\\rm_srtmenu1.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -2460,14 +2444,6 @@
                 "id": "a15dc76a-9790-4220-b230-6f35991047a0",
                 "resourcePath": "datafiles_yy\\sp_doorway.png.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c223f7ee-b051-4855-93a8-2ebc55555f14",
-            "Value": {
-                "id": "a58ca005-f102-4ccd-b31e-585cdc9bf650",
-                "resourcePath": "rooms\\rm_srtmenu\\rm_srtmenu.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
