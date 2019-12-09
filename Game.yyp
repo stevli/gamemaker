@@ -911,6 +911,14 @@
             }
         },
         {
+            "Key": "4bdbfab4-95b8-475d-9705-3ae5236748a3",
+            "Value": {
+                "id": "4fbcb2b6-810a-4064-bddb-3f1fb78089e6",
+                "resourcePath": "objects\\ob_quitgame\\ob_quitgame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4c211a72-20a8-45c3-9148-782a163ccec2",
             "Value": {
                 "id": "32c2438a-845d-49e5-ae1b-f8c9b2a64a6a",
@@ -1999,6 +2007,14 @@
             }
         },
         {
+            "Key": "986cf902-89a7-416c-93bc-d87cd2008178",
+            "Value": {
+                "id": "2aa04b63-60b6-4dfc-9b6a-d89e0c2a010b",
+                "resourcePath": "rooms\\rm_startmenufinal1\\rm_startmenufinal1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9a060b6f-30a6-49d2-be76-ebe3861c3682",
             "Value": {
                 "id": "478daeb5-e470-4513-a863-5c3ec8035f56",
@@ -2127,6 +2143,14 @@
             }
         },
         {
+            "Key": "a8c15371-2e5b-4006-93be-d0b5366a7e18",
+            "Value": {
+                "id": "d4345dc0-5db2-460d-881f-5d7f12d9ec63",
+                "resourcePath": "objects\\ob_deletetimer\\ob_deletetimer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a8c57e5a-5801-4008-ad2e-fdadf38a8e9e",
             "Value": {
                 "id": "5862f6cc-90f3-4c53-a67e-c2b0c6317e04",
@@ -2204,6 +2228,14 @@
                 "id": "0e150d68-145b-46a3-8f7f-8c83179a32ff",
                 "resourcePath": "views\\ac5900f2-0c80-40a3-8e54-85950042205f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "acb1af6f-2008-46c6-a097-4f2c49de2b9b",
+            "Value": {
+                "id": "abd56738-c578-4199-8308-f4e80d8e8611",
+                "resourcePath": "objects\\ob_makefullscreen\\ob_makefullscreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
