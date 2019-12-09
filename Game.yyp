@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "325940bd-8091-423b-a075-c172786a93e6",
+            "Value": {
+                "id": "fe53c551-29ba-4453-8cb8-5385b9c09099",
+                "resourcePath": "sprites\\sp_instructions\\sp_instructions.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "33d889b9-89a2-4e14-ac9f-ce87038e5a50",
             "Value": {
                 "id": "ccfe98b6-31ab-4eba-a550-72408c7122f7",
@@ -636,6 +644,14 @@
                 "id": "ab471f50-49cb-4c2c-8dd3-3aea6dfeedd0",
                 "resourcePath": "objects\\ob_knight_sword\\ob_knight_sword.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "367d8e43-c7eb-46aa-9abd-89f9d65fe0e4",
+            "Value": {
+                "id": "2787afe5-7f40-432c-96fc-5dd6d6c7f9ae",
+                "resourcePath": "rooms\\rm_startmenufinal\\rm_startmenufinal.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1255,6 +1271,14 @@
             }
         },
         {
+            "Key": "65a87182-5e9c-4906-a455-4a0a8beb049b",
+            "Value": {
+                "id": "038609a8-263f-4c38-8e40-95bf828229e1",
+                "resourcePath": "sprites\\sp_exit\\sp_exit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "65e12f1d-1805-4a01-9c06-91e30a98dc04",
             "Value": {
                 "id": "c512b745-3d40-41b8-a071-42c203a5a33f",
@@ -1479,6 +1503,14 @@
             }
         },
         {
+            "Key": "78d12205-4ed2-4ee2-bea4-ef736eb9d054",
+            "Value": {
+                "id": "0b92caa7-2a61-4747-8f5e-0a94c809e76b",
+                "resourcePath": "sprites\\sp_start\\sp_start.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "78e2b722-a848-4987-b36c-7423fa9eb4f9",
             "Value": {
                 "id": "76c24933-2889-45a1-b96e-913bc4a8e0e7",
@@ -1628,6 +1660,14 @@
                 "id": "2da33fdf-eabf-4cf0-9c68-11ee428d55ce",
                 "resourcePath": "views\\836ffd04-5ee0-4496-b131-73a36ffbb754.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8379481c-1bd4-409d-960b-fec71d2a6eb9",
+            "Value": {
+                "id": "d83e968b-89ec-482d-8fd9-2d5b86f5a2fb",
+                "resourcePath": "objects\\ob_menustart\\ob_menustart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
