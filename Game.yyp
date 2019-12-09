@@ -1146,7 +1146,7 @@
             "Key": "58c7a56a-0897-47fb-998b-684351838718",
             "Value": {
                 "id": "2f7cc506-8418-4793-ab96-fa1ede875608",
-                "resourcePath": "sprites\\sp_background_left\\sp_background_left.yy",
+                "resourcePath": "sprites\\sp_background_right\\sp_background_right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2956,14 +2956,6 @@
                 "id": "54dd2a5e-94a8-46b2-8ab3-fbdd5bf8f7a4",
                 "resourcePath": "datafiles_yy\\sp_char_w_ph\\sp_char_w_ph.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "e852c5e5-55fe-4d51-9266-4140afcd7739",
-            "Value": {
-                "id": "58282a53-c37d-48b4-9d07-afcd56cac835",
-                "resourcePath": "rooms\\rm_puzzle4_3\\rm_puzzle4_3.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
